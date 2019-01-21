@@ -144,10 +144,8 @@ public class JetsApplication {
 	}
 
 	public static int openSlot(Jet[] jetArr) {
-		int openSlot = 0;
 		for (int i = 0; i < jetArr.length; i++) {
 			if (jetArr[i] == null) {
-				openSlot = i;
 				return i;
 			} else if (i == 100) {
 				System.out.println("The airfield is full!");

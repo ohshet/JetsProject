@@ -1,5 +1,5 @@
 ## Jets Application
-![airplane](https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/484e5297-d3e0-4897-9ab5-ebea51a317ff.jpg)
+![airplane](https://static.interestingengineering.com/images/uploads/sizes/F15Eagle_resize_md.jpg)
 
 This program stores and displays information about a fleet of jets stationed at an airfield.  At startup the fleet of jets consists of five aircraft broken down into fighter jets and cargo jets.  All the jets have a known model, maximum speed, range, and price.  The user may also enter new aircraft up to a maximum of 100 jets on the airfield.
 
